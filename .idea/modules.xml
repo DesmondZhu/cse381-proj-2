@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CriticalSection/CriticalSection.iml" filepath="$PROJECT_DIR$/CriticalSection/CriticalSection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestApplet/TestApplet.iml" filepath="$PROJECT_DIR$/TestApplet/TestApplet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestProducerConsumer/TestProducerConsumer.iml" filepath="$PROJECT_DIR$/TestProducerConsumer/TestProducerConsumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestSync/TestSync.iml" filepath="$PROJECT_DIR$/TestSync/TestSync.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestThread/TestThread.iml" filepath="$PROJECT_DIR$/TestThread/TestThread.iml" />
+    </modules>
+  </component>
+</project>
